@@ -24,5 +24,5 @@ servers, and hybrid RAG platforms in regulated enterprise environments
 | Project | What it demonstrates |
 |---|---|
 | [mcp-weather-agent](https://github.com/narendrareddi/mcp-weather-agent) | MCP server design: typed tool schemas, structured outputs, retry/timeout handling, offline-testable |
-| *(next)* hybrid-rag-demo | Hybrid RAG: semantic + metadata retrieval, FastAPI, evaluation harness |
+| [hybrid-rag-demo](https://github.com/narendrareddi/mcp-weather-agent) | Hybrid RAG: semantic + metadata retrieval, FastAPI, evaluation harness |
 | *(next)* multi-agent-supply-chain | Multi-agent orchestration with Google ADK: planner → researcher → analyst → writer → reviewer |
